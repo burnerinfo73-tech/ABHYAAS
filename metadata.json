@@ -1,0 +1,6 @@
+{
+  "name": "NEET & JEE Study Suite",
+  "description": "Comprehensive study companion for NEET and JEE aspirants with formula sheets, interactive simulations, PYQ question bank, NTA-style mock tests, and AI doubt solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
